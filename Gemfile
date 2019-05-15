@@ -69,3 +69,6 @@ gem 'haml-rails'
 
 # Boostrap saas
 gem 'bootstrap-sass'
+
+# Material design para bootstrap
+gem 'bootstrap-material-design'
