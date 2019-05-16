@@ -1,3 +1,8 @@
+// Place all the styles related to the welcome controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+
 $green: #16a085;
 $grey: #5A6576;
 $blue: #058CC5;
@@ -76,3 +81,5 @@ $light-blue: #3498DB;
 .ultra-big{
     font-size:7em;
 }
+
+@import "bootstrap"

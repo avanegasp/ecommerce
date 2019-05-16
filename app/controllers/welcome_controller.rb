@@ -5,6 +5,6 @@ class WelcomeController < ApplicationController
   end
 
   def unregistered
-
+    render layout: "landing"
   end
 end
